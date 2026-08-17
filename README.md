@@ -29,6 +29,7 @@ material/
   shows/             Performance records: what landed, what died
   archive/           Retired material (nothing is deleted)
 tutorials/
+  00-setup.md        From zero: GitHub, Claude Code, first conversation
   01-first-dump.md   Dump → organized seeds → one structured bit
   02-first-grading.md  Run the panel, read a verdict, record a stage result
   03-your-own-panel.md  Grow your own calibration from real audience data
@@ -45,6 +46,12 @@ start filling in your own.
    (Your material is your act. Keep the repo private.)
 2. Clone it, `cd` in, run `claude`.
 3. Open `tutorials/01-first-dump.md` and follow it. Thirty minutes, start to end.
+
+Never used Claude Code or barely touched GitHub? Start one step earlier:
+[`tutorials/00-setup.md`](tutorials/00-setup.md) goes from account creation to
+your first conversation — and explains the one mental model that matters:
+**you talk, it types.** You never have to create files or remember folder
+names by hand.
 
 ## The three rules (short version)
 

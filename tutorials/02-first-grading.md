@@ -46,7 +46,10 @@ is the data.
 
 ## 4. Record the result — this is the important 10 minutes
 
-Same night or next morning, create `material/shows/<date>-<venue-slug>.md`:
+Same night or next morning, tell Claude *"new show record: <venue>, here's what
+happened…"* and talk it through — it will create the file, append the show to
+the bit's `tested_in`, and prompt you for the strength call. (The file it
+creates, if you'd rather write it yourself:)
 
 ```markdown
 ---

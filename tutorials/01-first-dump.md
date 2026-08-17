@@ -4,6 +4,13 @@
 structured bit started — and you'll have seen exactly where the AI's job stops
 and yours begins.*
 
+> **You don't have to do any of the file operations below by hand.** Everything —
+> creating files, writing frontmatter, changing statuses, committing — can be
+> done by telling Claude what you want in plain English ("file this as a raw
+> dump", "mark the allen key bit stage-ready", "commit"). The manual paths are
+> shown so you know where things live and can check its work. New to Claude Code
+> entirely? Start at `tutorials/00-setup.md`.
+
 ## 1. Dump
 
 Talk for two minutes about something that **annoyed, scared, confused, or
@@ -11,7 +18,9 @@ embarrassed you this week**. Not "something funny" — strong feeling first, fun
 is downstream of it. Use your phone's voice memo and transcribe it, or just type
 a rant. Don't edit. Typos, tangents, half-thoughts — all of it stays.
 
-Save it as `material/raw/<date>-<two-word-slug>.md`:
+Easiest path: paste the transcript into Claude Code and say **"file this as a
+raw dump."** It will create `material/raw/<date>-<two-word-slug>.md` with the
+right frontmatter and your text untouched. (Doing it by hand? The shape is:)
 
 ```markdown
 ---
@@ -55,8 +64,8 @@ Type answers under the 🤖 questions. Delete the markers as you answer — unma
 text means *yours*. If a question makes you write something that sounds like an
 essay, say it out loud first, then type what you actually said.
 
-When the file has a premise and a rough performable draft, change `status: idea`
-to `status: working`. Commit:
+When the file has a premise and a rough performable draft, tell Claude to mark
+it `working` and commit — or do it yourself:
 
 ```
 git add material/ && git commit -m "First dump + first working bit"
