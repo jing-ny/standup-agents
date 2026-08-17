@@ -31,6 +31,7 @@ material/
   raw/               Verbatim dumps (sacred — AI never edits these)
   bits/              Structured jokes with status + stage history
   sets/              Assembled setlists
+  rooms/             One file per recurring room: what it rewards, what it punishes
   shows/             Performance records: what landed, what died
   archive/           Retired material (nothing is deleted)
 tutorials/

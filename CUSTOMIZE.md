@@ -26,9 +26,10 @@ customization in the whole system — do not skip it.
   comedy languages is re-anchoring (same premise, different cultural anchors),
   not word swapping, and deserves its own bit file.
 - **Rooms:** if your scene has distinct room types (quiet listening rooms vs
-  loud bar rooms, themed shows, language-specific mics), name them in your show
-  records. After a few entries, patterns of "this material belongs in that room
-  type" appear — encode them as gates.
+  loud bar rooms, themed shows, language-specific mics), give recurring rooms a
+  file in `material/rooms/` and link show records to them via the `room:` field.
+  After a few entries, patterns of "this material belongs in that room type"
+  appear — encode them as gates.
 
 ## Optional extras (only when the pain is real)
 

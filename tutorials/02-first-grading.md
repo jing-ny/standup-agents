@@ -76,7 +76,8 @@ creates, if you'd rather write it yourself:)
 ```markdown
 ---
 date:
-venue:
+venue:                 # free text is fine for a one-off room
+room:                  # optional: material/rooms/<slug>.md once a room earns a file
 set: [<bit-slug>]
 ---
 ## What happened

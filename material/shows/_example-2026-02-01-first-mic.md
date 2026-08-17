@@ -1,6 +1,7 @@
 ---
 date: 2026-02-01
 venue: (a bar mic, 12 comics, ~8 audience)
+room: material/rooms/_example-loud-bar.md
 set: [_example-allen-key]
 note: SYNTHETIC EXAMPLE — delete this file when you start your own vault
 ---
