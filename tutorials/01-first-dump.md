@@ -15,8 +15,19 @@ and yours begins.*
 
 Talk for two minutes about something that **annoyed, scared, confused, or
 embarrassed you this week**. Not "something funny" — strong feeling first, funny
-is downstream of it. Use your phone's voice memo and transcribe it, or just type
-a rant. Don't edit. Typos, tangents, half-thoughts — all of it stays.
+is downstream of it. Don't edit. Typos, tangents, half-thoughts — all of it stays.
+
+**Voice first, if you can.** Spoken dumps are looser and funnier than typed ones —
+your mouth doesn't self-censor the way your fingers do. Three ways to get the
+transcript:
+
+- **Your phone already does it.** Recent iPhones and Androids transcribe voice
+  memos automatically — record, copy the transcript out, paste it to Claude.
+- **Type the rant** if recording isn't your thing. Still don't edit.
+- **`scripts/transcribe.py`** (optional, needs an OpenAI API key) — drop the
+  audio file in the repo folder and say *"transcribe this and file it as a raw
+  dump."* Audio itself never enters git (see `.gitignore`); only the verbatim
+  transcript does — mishears flagged, never silently fixed.
 
 Easiest path: paste the transcript into Claude Code and say **"file this as a
 raw dump."** It will create `material/raw/<date>-<two-word-slug>.md` with the

@@ -1,0 +1,11 @@
+# Audio never enters git: live-room recordings contain other comics' material
+# and audience voices. Keep the files local; commit only verbatim transcripts.
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.mp4
+*.mov
+material/audio/
