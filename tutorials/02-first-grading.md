@@ -35,8 +35,10 @@ Three things to internalize about that verdict:
   If it wrote you a replacement line, something is broken — reread the
   Constitution to it.
 
-Revise the draft (your words), rerun `/panel` if you want, and when it's tight
-enough to say out loud from memory, mark it `status: stage-ready`.
+Revise the draft (your words), rerun `/panel` if you want, and when it passes
+the off-book standard — three clean runs out loud without the page, you can
+recover from a dropped line, and the spoken version is shorter than the page —
+mark it `status: stage-ready`.
 
 ## 2½. Rehearse on tape (the highest-value optional step)
 
@@ -49,6 +51,12 @@ up. Transcribe it (same three paths as tutorial 01) and tell Claude:
 Wherever they differ, **the mouth's version usually wins** — it's already
 performable; the page version was for the eye. Your spoken take will also have
 dropped whole lines. Notice which ones you didn't miss.
+
+While you're at it, **time it**. Three full runs out loud, keep the slowest —
+that's your real length, not the word count's opinion (English averages
+~130–150 words per minute; other languages, your recording *is* the baseline).
+And leave room for laughs: a bit that exactly fills its slot in your bedroom
+runs over the moment the room is on your side.
 
 ## 3. Take it to a mic
 

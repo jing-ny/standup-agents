@@ -46,6 +46,29 @@ cuts and reorders are fair game for AI proposals)
 overwrite)
 ```
 
+## Timing
+
+Estimating `est. time` per bit before you've performed it:
+
+- **English:** spoken standup runs ~130–150 words per minute. Word count ÷ 140
+  is a fine first guess. This is a *starting point* — your first recording
+  replaces it with your real rate.
+- **Other languages:** the wpm rule is English-specific (Chinese counts
+  characters per minute, and every language paces differently). Record
+  yourself performing one bit, divide, and that's your personal baseline.
+  See `CUSTOMIZE.md` on languages.
+- **Rehearsal beats arithmetic:** time the full set out loud three times and
+  **keep the slowest run**. Then leave room for laughs — a set that fills the
+  slot exactly in a silent bedroom runs over in a laughing room. The light
+  doesn't care that you were doing well.
+
+**Off-book standard** — a set (or bit) is stage-ready when all three hold:
+
+1. Three clean runs out loud without looking at the page.
+2. You can drop a line, notice, and keep going without restarting.
+3. The spoken version is *shorter* than the page version (your mouth has
+   already made its cuts — see tutorial 02 on rehearse-on-tape).
+
 ## Grading a set
 
 `/panel material/sets/<file>.md` judges the set *as a set* — opener choice,

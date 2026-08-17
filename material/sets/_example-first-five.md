@@ -13,7 +13,7 @@ note: SYNTHETIC EXAMPLE — delete this file when you start your own vault
 
 | # | bit | est. time | why here |
 |---|-----|-----------|----------|
-| 1 | material/bits/_example-allen-key.md | 2:30 | Only stage-tested bit; "college educated" line proven in this room |
+| 1 | material/bits/_example-allen-key.md | 1:15 | Only stage-tested bit; "college educated" line proven in this room |
 | 2 | (next bit — slot open) | ~1:30 | Needs something short and punchy; this room kills two-sentence setups |
 | 3 | (closer — slot open) | ~1:00 | Ends on the biggest reliable laugh, not the newest material |
 
