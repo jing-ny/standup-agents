@@ -7,6 +7,11 @@ This is a template for running your comedy notebook as a git repo with
 The AI files your dumps, structures your material, tracks what you've tested on
 stage, and gives you four-lens feedback on drafts. The jokes are yours. All of them.
 
+Prefer a different agent CLI? The whole system is markdown instructions —
+[Codex](https://github.com/openai/codex) and friends work too: they auto-read
+[`AGENTS.md`](AGENTS.md), which binds them to the same constitution. Slash
+commands are just saved prompts; on other tools, say the words instead.
+
 ## Who this is for
 
 Comics (or people about to do their first open mic) who already use GitHub and are

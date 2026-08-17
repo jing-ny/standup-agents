@@ -52,6 +52,10 @@ You're in. Claude Code automatically reads this vault's `CLAUDE.md` — the
 constitution that tells it what it may and may not do with your material —
 so it already knows the house rules before you say a word.
 
+(Using Codex or another agent CLI instead? Same deal: those tools auto-read
+`AGENTS.md`, which binds them to the same constitution. Everything in these
+tutorials works — just say the slash commands in your own words.)
+
 ## 5. The mental model (read this twice)
 
 **You talk. It types.** You don't need to create files, remember folder names,
