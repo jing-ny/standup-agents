@@ -8,7 +8,7 @@ note: SYNTHETIC EXAMPLE — delete this file when you start your own vault
 
 ## What happened
 
-Did the allen key bit, about 2:30. "We are both college educated" got the
+Did the allen key bit, about 1:15 with the laughs. "We are both college educated" got the
 biggest laugh of the set — way above what the panel graded it (it's a throwaway
 clause in the draft). "The dresser knows" got a real laugh too. The middle
 sagged: the instructions beat got a smile, not a laugh, exactly where the

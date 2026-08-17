@@ -24,7 +24,9 @@ customization in the whole system — do not skip it.
 - **Language:** everything here works in any language. If you perform in more
   than one, note per bit which language it lives in — translation between
   comedy languages is re-anchoring (same premise, different cultural anchors),
-  not word swapping, and deserves its own bit file.
+  not word swapping, and deserves its own bit file. Timing too: the ~140 wpm
+  estimate in `material/sets/README.md` is English-only — for any other
+  language, one recording of yourself is the baseline.
 - **Rooms:** if your scene has distinct room types (quiet listening rooms vs
   loud bar rooms, themed shows, language-specific mics), give recurring rooms a
   file in `material/rooms/` and link show records to them via the `room:` field.
