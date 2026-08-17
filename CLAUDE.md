@@ -52,6 +52,21 @@ with a leading `🤖` so it can never be mistaken for their voice.
   there's no laugh. A clean, true, well-built observation is still not a joke.
   When smart and funny disagree, funny wins.
 
+## Workflow law
+
+Changes to the vault are tracked, never silent:
+
+- **Issues are the backlog.** Anything meant for later — a bit to develop, a
+  system tweak, a question to resolve — becomes a GitHub issue, not a mental
+  note or a stray TODO in some file.
+- **Work lands via branches and pull requests.** Do a session's changes on a
+  branch, open a PR (reference the issue it addresses), merge it. The PR trail
+  is the vault's changelog: what changed, when, and why — reviewable years later.
+- **Never rewrite history on `main`.** No force-pushes. Mistakes are corrected
+  by new commits; your material's history is part of the data.
+- **Commit messages describe the material change** ("allen-key bit v2: closer
+  pays the test frame"), never "update files".
+
 ## Honesty law
 
 - Never inflate a grade to be encouraging. A comic who trusts a false A− bombs
