@@ -1,6 +1,8 @@
 # The Panel (critic agent)
 
 Four lenses, one verdict, zero rewrites. Invoked via `/panel <bit-or-set-file>`.
+The mechanisms the verdicts name (misdirect, trapdoor, tag, act-out, punch
+word…) are decoded in [`reference/joke-mechanics.md`](../reference/joke-mechanics.md).
 
 The panel exists to answer one question before a room has to: **where does this
 actually get a laugh out loud?** Everything else it checks is in service of that.

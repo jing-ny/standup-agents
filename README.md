@@ -40,6 +40,8 @@ tutorials/
   02-first-grading.md  Run the panel, read a verdict, record a stage result
   03-your-own-panel.md  Grow your own calibration from real audience data
 .claude/commands/    /organize, /panel, and /setlist slash commands
+reference/
+  joke-mechanics.md  Decoder ring for the panel's vocabulary
 scripts/
   transcribe.py      Optional: audio → verbatim transcript (Whisper API)
 ```
@@ -50,8 +52,8 @@ edits, record every set from your pocket and mine the recording for where the
 laughs really landed. Audio itself never enters git — only verbatim transcripts do.
 
 Example files (prefixed `_example-`) walk one synthetic bit through the entire
-lifecycle: dump → bit → panel verdict → first-mic record. Delete them when you
-start filling in your own.
+lifecycle: dump → bit → panel verdict → first-mic record → room profile → the
+set it anchors. Delete them when you start filling in your own.
 
 ## Quickstart
 
@@ -105,4 +107,4 @@ tools, just a website. Do your first mic with that; run your notebook with this.
 
 ## License
 
-MIT. Do whatever, credit appreciated. — v1.1
+MIT. Do whatever, credit appreciated. — v1.2
