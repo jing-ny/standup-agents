@@ -74,6 +74,23 @@ names by hand.
 The long version is [`CLAUDE.md`](CLAUDE.md). Adapting the system to your own
 style, language, and room scene: [`CUSTOMIZE.md`](CUSTOMIZE.md).
 
+## Feedback
+
+Tried it? Stuck somewhere? Found a rule that fights your workflow? That's exactly
+the feedback this template needs:
+
+- **GitHub users:** [open an issue](../../issues) — even "tutorial 01 lost me at
+  step 3" is a great issue.
+- **Everyone else:** email **nycstandup.site@gmail.com**. A sentence is enough.
+- Know the maintainer personally? Just tell them. That counts.
+
+## See also
+
+New to standup itself (or NYC)? The same kitchen runs
+[**nyc-standup**](https://nyc-standup-one.vercel.app) — a hand-verified,
+beginner-first list of NYC open mics plus a first-mic guide. No account, no
+tools, just a website. Do your first mic with that; run your notebook with this.
+
 ## What this is not
 
 - Not a joke generator. If you want AI-written comedy, this repo will fight you.
