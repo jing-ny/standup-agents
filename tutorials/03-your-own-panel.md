@@ -47,8 +47,9 @@ Rules of thumb for good gates:
   bad night is noise; twice is a lane marker.
 - Gates about **your rooms** are usually the most valuable. Rooms differ more
   than theory admits — a quiet listening room and a loud bar room punish
-  opposite things. If your scene has distinct room types, name them and note
-  which material belongs where.
+  opposite things. Give recurring rooms a file in `material/rooms/` (blunt
+  notes, private vault) and mine each room file's "Patterns / gate candidates"
+  section — that's the feeder lane for gates.
 - Gates can be positive: "reward X, it has outperformed its paper grade twice."
 - Date every gate. You will retire some later, and that's healthy.
 
