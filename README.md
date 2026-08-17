@@ -34,7 +34,14 @@ tutorials/
   02-first-grading.md  Run the panel, read a verdict, record a stage result
   03-your-own-panel.md  Grow your own calibration from real audience data
 .claude/commands/    /organize and /panel slash commands
+scripts/
+  transcribe.py      Optional: audio → verbatim transcript (Whisper API)
 ```
+
+The system is **voice-first** where it counts: dump by talking (your mouth
+self-censors less than your fingers), rehearse on tape and keep the mouth's
+edits, record every set from your pocket and mine the recording for where the
+laughs really landed. Audio itself never enters git — only verbatim transcripts do.
 
 Example files (prefixed `_example-`) walk one synthetic bit through the entire
 lifecycle: dump → bit → panel verdict → first-mic record. Delete them when you
@@ -75,4 +82,4 @@ style, language, and room scene: [`CUSTOMIZE.md`](CUSTOMIZE.md).
 
 ## License
 
-MIT. Do whatever, credit appreciated. — v1.0
+MIT. Do whatever, credit appreciated. — v1.1

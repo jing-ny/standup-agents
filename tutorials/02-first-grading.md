@@ -38,11 +38,33 @@ Three things to internalize about that verdict:
 Revise the draft (your words), rerun `/panel` if you want, and when it's tight
 enough to say out loud from memory, mark it `status: stage-ready`.
 
+## 2½. Rehearse on tape (the highest-value optional step)
+
+Before the mic, record yourself performing the draft once, out loud, standing
+up. Transcribe it (same three paths as tutorial 01) and tell Claude:
+
+> "This is a rehearsal take of the allen-key bit. File the transcript as raw,
+> then show me where my mouth differed from the page."
+
+Wherever they differ, **the mouth's version usually wins** — it's already
+performable; the page version was for the eye. Your spoken take will also have
+dropped whole lines. Notice which ones you didn't miss.
+
 ## 3. Take it to a mic
 
 This file can't do this part. Book an open mic, do the bit, and record audio
 on your phone from your pocket. The recording, not your memory of the room,
 is the data.
+
+Afterwards, transcribe the set recording and hand it to Claude the same way:
+
+> "Performance recording, allen-key bit, <venue> <date>. File it verbatim,
+> diff it against the draft, and start a show record."
+
+Then play the audio back once with the show record open, and mark the truth
+into it as you listen: where the laughs actually landed (and how big), where
+you expected one and got silence, where you rushed past a laugh. Audio stays
+out of git; the transcript and the laugh notes are the permanent record.
 
 ## 4. Record the result — this is the important 10 minutes
 

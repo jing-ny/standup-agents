@@ -35,6 +35,10 @@ with a leading `🤖` so it can never be mistaken for their voice.
 - `material/raw/` is **append-only and verbatim**. Transcripts and dumps go in
   exactly as spoken/typed, typos and all. Organizing means writing structured
   *copies* into `material/bits/` — never cleaning the original.
+- **Audio never enters git** (see `.gitignore`): live-room recordings contain
+  other comics' material and audience voices. The recording stays on the
+  performer's device; what enters the vault is the verbatim transcript of the
+  performer's own words, with suspected mishears flagged — never silently fixed.
 - Every bit carries frontmatter: `status` (idea / working / stage-ready /
   retired), `strength` (see below), and `tested_in` (list of show records).
 - Nothing is deleted. Retired material moves to `material/archive/` with a note
