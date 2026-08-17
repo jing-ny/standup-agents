@@ -64,9 +64,13 @@ of custody back to a real audience.
 ## 4. Keep the flywheel turning
 
 From here the loop is: perform → record the result → note disagreements → every
-few shows, revisit the gates. Retire gates that stop matching; sharpen ones that
-keep firing. Twice a year, reread the oldest gates — the performer who wrote
-them was a worse comic than you are now.
+few shows, revisit the gates. As bits accumulate, the same loop runs one level
+up: assemble them into sets (`/setlist`, `material/sets/`), grade the set as
+a set, and let show records calibrate your ordering instincts too.
+
+Retire gates that stop matching; sharpen ones that keep firing. Twice a year,
+reread the oldest gates — the performer who wrote them was a worse comic than
+you are now.
 
 That's the whole system. The template gave you an empty instrument;
 your audience just tuned it.

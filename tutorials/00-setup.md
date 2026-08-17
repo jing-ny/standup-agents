@@ -72,9 +72,9 @@ you just say what you want:
 
 Three more things:
 
-- **Slash commands are saved prompts.** `/organize` and `/panel` are shortcuts
-  this template ships with (they live in `.claude/commands/` — plain text,
-  go read them). Typing the request in your own words works too.
+- **Slash commands are saved prompts.** The shortcuts this template ships with
+  (`/organize`, `/panel`, `/setlist`) live in `.claude/commands/` — plain text,
+  go read them. Typing the request in your own words works too.
 - **Everything is a file.** Nothing is hidden in an app. Open the folder in
   any editor and it's all just text you own.
 - **Commits are save points.** Ask Claude to commit whenever you finish a

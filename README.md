@@ -39,7 +39,7 @@ tutorials/
   01-first-dump.md   Dump → organized seeds → one structured bit
   02-first-grading.md  Run the panel, read a verdict, record a stage result
   03-your-own-panel.md  Grow your own calibration from real audience data
-.claude/commands/    /organize and /panel slash commands
+.claude/commands/    /organize, /panel, and /setlist slash commands
 scripts/
   transcribe.py      Optional: audio → verbatim transcript (Whisper API)
 ```

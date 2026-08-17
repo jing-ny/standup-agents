@@ -96,5 +96,8 @@ Then update the bit itself:
 
 Commit. That's one full loop: dump → structure → grade → stage → truth.
 
+Once you have 3–4 stage-ready bits, the next unit of work is a **set** —
+see `material/sets/` and try `/setlist 5 minutes`.
+
 > `material/shows/_example-2026-02-01-first-mic.md` shows a filled-in record,
 > including a room-vs-panel disagreement, so you can see what "honest" looks like.

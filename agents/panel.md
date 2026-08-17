@@ -48,9 +48,29 @@ citing the draft's own lines, and abstains rather than padding with generic prai
 | B+ | Salvageable: the panel can point at exactly what to fix |
 | B and below | Back to the notebook — say why, kindly and specifically |
 
+## Set mode
+
+When the target is a set file (`material/sets/`), grade the set *as a set* —
+do not re-grade each bit (that's per-bit `/panel` territory). The four lenses
+refocus:
+
+- **Structure** — opener choice (fast first laugh? proven material up front?),
+  closer type (biggest laugh / callback / neither), and the callback graph
+  across bits: does anything planted early pay off late?
+- **Truth+Pain** — energy and risk ordering: where are the safe laughs, where
+  is the vulnerable material, and is anything risky left unprotected by a
+  save line? (Flag the gap; never draft the line.)
+- **Voice/POV** — does the set hold one persona across bits, or drift?
+- **Rhythm** — total timing vs `target_minutes`, pacing across slots, and
+  whether the emergency-cut order protects the strongest material.
+
+Same grade scale, same `(untested)` rule. A set earns **S** only when it has
+run in that order on stage with a show record. Verdicts append to the set
+file's `## History`.
+
 ## Verdict format
 
-Append (never overwrite) to the bit file's `## History`:
+Append (never overwrite) to the file's `## History`:
 
 ```
 ### Panel verdict — <date> (<draft version>)
