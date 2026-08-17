@@ -15,9 +15,10 @@ The short version you must not violate:
 
 Tool notes:
 
-- The `/organize` and `/panel` slash commands in `.claude/commands/` are plain
-  saved prompts. On tools without slash-command support, open those files and
-  follow them, or let the performer ask in their own words ("run the panel on
-  the allen-key bit") — same thing.
+- The `/organize`, `/panel`, and `/setlist` slash commands in
+  `.claude/commands/` are plain saved prompts. On tools without slash-command
+  support, open those files and follow them, or let the performer ask in their
+  own words ("run the panel on the allen-key bit", "what could I take to a
+  5-minute mic?") — same thing.
 - Agent specs live in `agents/` (`organizer.md`, `panel.md`). They are the
   source of truth; this file and the commands only point at them.
